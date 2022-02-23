@@ -1,5 +1,8 @@
 # EducationalDataJourney
 
+## Artigos by me
+
+* [O que podemos fazer com dados educacionais?] (https://dev.to/tg_py/o-que-podemos-fazer-com-dados-educacionais-2boa) 
 
 ## Books
   * List of books that guided my learning 
