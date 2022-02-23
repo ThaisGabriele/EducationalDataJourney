@@ -1,4 +1,5 @@
-# learning-analytics-guide
+# EducationalDataJourney
+
 
 ## Books
   * List of books that guided my learning 
@@ -7,4 +8,4 @@
 Anthony V. Robins
 
 * E-books:
-    - :star: ANÁLISE DE DADOS EDUCACIONAIS: Aplicando evidências na gestão pública - Escola de Dados
+    - :star: **ANÁLISE DE DADOS EDUCACIONAIS: Aplicando evidências na gestão pública** - Escola de Dados
